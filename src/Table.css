@@ -6,6 +6,8 @@
     padding: 20px;
     overflow-x: auto; /* Add horizontal scrollbar if needed */
     text-align: center;
+     background-color: rgb(0, 0, 0);
+}
 }
 
 table {
